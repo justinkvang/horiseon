@@ -32,5 +32,5 @@ CSS
 
 -- LINKS -----------------
 
-Deployed Link : 
-Repository Link :
+Deployed Link : https://justinkvang.github.io/horiseon/
+Repository Link : https://github.com/justinkvang/horiseon
